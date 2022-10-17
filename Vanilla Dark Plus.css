@@ -52,6 +52,7 @@
   content: '+';
   position: absolute;
   top: 50%;
+  margin-left: 115px;
   width: max-content;
   transform: translateY(-50%) translateX(430%);
   animation-name: spin;
@@ -62,15 +63,15 @@
 
 @keyframes spin {
   0% {
-    transform: translateY(-50%) translateX(430%) rotate(0deg);
+    transform: translateY(-50%) rotate(0deg);
   }
 
   50% {
-    transform: translateY(-50%) translateX(430%) rotate(360deg);
+    transform: translateY(-50%) rotate(360deg);
   }
 
   100% {
-    transform: translateY(-50%) translateX(430%) rotate(720deg);
+    transform: translateY(-50%) rotate(720deg);
   }
 }
 
