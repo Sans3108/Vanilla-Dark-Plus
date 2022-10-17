@@ -8,8 +8,8 @@ The theme is light mode compatible. _(again, what is wrong with you)_
 _("compatible" here means: does not break light mode by making it dark, it doesn't make sense to make light mode be dark.)_
 
 ## Better Discord Installation
-- Go inside your themes folder (User settings > Themes > "Open themes folder").
-- Download the theme file ([Vanilla Dark Plus.theme.css](https://github.com/Sans3108/Vanilla-Dark-Plus/blob/master/Vanilla%20Dark%20Plus.theme.css)
+- Go inside your themes folder (User settings > Themes > "Open themes folder")
+- Download the theme file ([Vanilla Dark Plus.theme.css](https://github.com/Sans3108/Vanilla-Dark-Plus/blob/master/Vanilla%20Dark%20Plus.theme.css))
 - Move the file to the themes folder
 
 ### Other Clients
